@@ -1,6 +1,6 @@
 # SecurityEvents
 
-Hier eine Sammlung / Übersicht IT-Security Events mit Fokus auf DE/EU.
+Hier findest du eine Sammlung / Übersicht von Informationssicherheits /  IT-Security Events mit Fokus auf DE/EU.
 Bitte gerne um weitere Events erweitern! 
 
 
